@@ -1,0 +1,2 @@
+tabs: ['README.md', 'src/App.jsx']
+terminal-one: yarn && yarn start --port $PUBLIC_PORT
